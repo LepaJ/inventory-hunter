@@ -1,0 +1,8 @@
+---
+refresh_interval: 2 # seconds
+max_price: 650 # dollars/euros/etc
+urls:
+  - https://www.newegg.com/gigabyte-geforce-rtx-2070-super-gv-n207swf3oc-8gd/p/N82E16814932213 # this one is a test
+  - https://www.1a.ee/p/televiisor-lg-49nano813na/91in?mtd=category-popular&pos=taxon-bottom&src=bitrec&index=2
+  - https://www.1a.ee/p/mahkmed-huggies-elite-soft-1-suurus-50tk/2g5t?cat=35w&index=1
+...
